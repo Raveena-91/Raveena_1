@@ -1,0 +1,14 @@
+uuid: 313d810e-bc77-41ef-b6a5-3da772fd3f47
+name: Raveena_1
+mail: raveena@simplycloud.in
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

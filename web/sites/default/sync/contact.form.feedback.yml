@@ -1,0 +1,12 @@
+uuid: ec1e52b6-b76f-41b0-9d31-0eb3b65e875b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - raveena@simplycloud.in
+reply: ''
+weight: 0
